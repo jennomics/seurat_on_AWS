@@ -2,7 +2,7 @@
 sagemaker notebook for scRNA analysis
 
 
-The notebook runs a slightly modified/abbreviated version of this tutorial. There is actually a great series of vignettes that you can plug in to this notebook, including one for multimodal analysis. Finally, we come to the bleeding edge with time-series analysis. I, personally would start with Tempora, primarily because it operates on Seurat output, not because I have done any due diligence on the method.
+The notebook runs a slightly modified/abbreviated version of this tutorial: https://satijalab.org/seurat/articles/pbmc3k_tutorial.html. There is actually a great series of vignettes that you can plug in to this notebook, including one for multimodal analysis. 
  
 To experiment with the notebook: create a SageMaker notebook instance. Detailed instructions are here, simple instructions are: go to SageMaker in the console and click on “Notebook instances”
  
